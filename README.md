@@ -23,10 +23,12 @@ Instagram:
 - The search feature in chats
 - The screenshot block for single view photos
 - The block account and future ones they may create feature
+  
 TikTok:
 - The feature to create folders to organize your favorited videos
 - The hyperlinked text in comments
 - The sectioned for you, friends, and following tabs
+
 Substack:
 - Reposting your favorite line from an essay
 - Saving essays to read later
